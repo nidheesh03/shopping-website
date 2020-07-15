@@ -164,3 +164,16 @@ u {
   margin-top:40px;
   margin-right: 10px;
 }
+@media only screen and (min-width:360px) {
+  .card{
+    width:500px;
+  }
+  .logo-1{
+    position: relative;
+    right:300px;
+    top:20px;
+  }
+  .star-1{
+    margin-right: 50px;
+  }
+}
