@@ -82,7 +82,7 @@ u {
 .cart-2:hover+div{
         display:block;
 }
-/* what is the meaning of the above code?*/
+/* .cart-2:hover+div is used to select the adajacent sibling means it will select the div below the .cart-2 when it is hovered on*/
 .card{
   box-shadow:0 14px 28px rgba(0,0,0,0.25);
 }
